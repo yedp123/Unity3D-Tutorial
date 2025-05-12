@@ -1,0 +1,12 @@
+{
+  "name": "com.yann.tutorial-plugin",
+  "version": "0.1.0",
+  "displayName": "Tutorial Plugin",
+  "description": "An editor plugin for step-by-step Unity tutorials.",
+  "unity": "2020.3",
+  "author": {
+    "name": "yann",
+    "email": "yann.eldin@wonderlabsstudio.com"
+  },
+"keywords": ["tutorial", "guide", "editor"]
+}
